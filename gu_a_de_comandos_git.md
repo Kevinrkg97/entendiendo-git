@@ -1,6 +1,6 @@
 # 🚀 Guía Práctica de Git: Comandos Esenciales
 
-Este repositorio sirve como material de apoyo para entender el flujo de trabajo básico con Git y GitHub. A continuación, explicamos de manera visual y práctica para qué sirve cada comando utilizado en nuestro flujo de desarrollo.
+Este repositorio sirve como material de apoyo para entender el flujo de trabajo básico con Git y GitHub. A continuación, explicamos de manera visual y práctica para qué sirve cada comando utilizado en nuestro flujo de desarrollo.dasdsa
 ---
 
 ## 📸 1. Guardando el progreso: `git add` y `git commit`
